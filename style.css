@@ -1,0 +1,38 @@
+.line{
+    width: 450px;
+    height: 5px;
+    background-color: aquamarine;
+}
+p{
+    max-width: 425px;
+    font-size: 20px;
+    text-align: justify;
+    font-family: 'Roboto Mono', monospace;
+}
+img{
+    height: 250px;
+    width: 300px;
+    border: 3px groove aquamarine;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+h1{
+  font-family: 'Work Sans', sans-serif;  
+color: orangered;
+}
+h3{
+    font-family: 'Bodoni Moda', serif;
+    color: orangered;
+}
+#bio{
+    padding-top: 600px;
+}
+#welcome{
+    background: linear-gradient(#f79d00 , #64f38c);
+    height: 550px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
